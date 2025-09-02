@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at LAB university of Applied Sciences. I'm studying Industrial Information Technology. I have some little experience with hosting a home server and working to improve and add more functionally to it.
+
 <!--
 **RoBitCat/RoBitCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
